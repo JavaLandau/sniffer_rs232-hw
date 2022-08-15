@@ -1,0 +1,7 @@
+*.htm
+*.html
+*.drc
+*.LOG
+*.SchDocPreview
+*.PcbDocPreview
+History/**
